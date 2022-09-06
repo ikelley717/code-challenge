@@ -3,7 +3,7 @@
 I wasn't able to finish, but I think if I had another hour or so I probably could have. I ended up having a lot of issues connecting the server to the application.
 I have been mostly working in ReactJS with internal company generators so I have gotten a bit rusty on setting up some of the more nuanced environment details as well as data storage and whatnot in VueJS.
 
-While I didn't finish, you will see that I did get the API call working.
+While I didn't finish, you will see that I did get the API call working although for now I am simply console logging the results.
 
 To do this, navigate first to the server (webservice) and run `npm install` and then `node index.js`
 
